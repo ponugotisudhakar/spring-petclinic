@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml veirsion="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://maven.apache.org/POM/4.0.0"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
@@ -12,7 +12,8 @@
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.1.6.RELEASE</version>
   </parent>
-  <name>petclinic</name>
+  <name>spring-petclinic</name>
+ 
 
   <properties>
 
